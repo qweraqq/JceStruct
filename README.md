@@ -23,9 +23,9 @@ poetry add JceStruct
 or install from source (using poetry)
 
 ```bash
-pip install git+https://github.com/yanyongyu/JceStruct.git
+pip install git+https://github.com/qweraqq/JceStruct.git
 # or
-poetry add git+https://github.com/yanyongyu/JceStruct.git
+poetry add git+https://github.com/qweraqq/JceStruct.git
 ```
 
 or clone and install
