@@ -1,13 +1,13 @@
 [tool.poetry]
 name = "JceStruct"
-version = "0.1.5"
+version = "0.1.6"
 description = "JCE Encode/Decode"
-authors = ["yanyongyu <yanyongyu_1@126.com>"]
+authors = ["yanyongyu <yanyongyu_1@126.com>", "xx <xx@shen1991.com>"]
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/yanyongyu/JceStruct"
-repository = "https://github.com/yanyongyu/JceStruct"
-documentation = "https://github.com/yanyongyu/JceStruct#readme"
+homepage = "https://github.com/qweraqq/JceStruct"
+repository = "https://github.com/qweraqq/JceStruct"
+documentation = "https://github.com/qweraqq/JceStruct#readme"
 keywords = ["jce"]
 packages = [
     { include = "jce" }
